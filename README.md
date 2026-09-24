@@ -240,4 +240,4 @@ This repository serves as the official landing page for NeonDS. The software is 
 **Get the most recent version of NeonDS today!**
 
 ---
-**Last updated:** 2026-09-23 23:17:16 UTC
+**Last updated:** 2026-09-24 02:00:57 UTC
